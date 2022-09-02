@@ -1,3 +1,3 @@
 # Kokoatalk-clonecoding
 
-This is my first project
+HTML and CSS are so much fun!
